@@ -72,7 +72,9 @@ Ao final, o participante é capaz de:
 4. unir dois históricos Git independentes com `--allow-unrelated-histories`, escolhendo com consciência entre `ours` e `theirs`;
 5. usar um agente de IA como ferramenta de engenharia, com descoberta somente leitura, a regra de nunca inventar, o protocolo de parar e reportar, e validação humana.
 
-A apostila mede como o prompt de documentação evoluiu em **5 versões**, a partir de **717 prompts reais**, e mostra como cada falha observada virou uma regra.
+A apostila vai além da apresentação e traz dois capítulos extras: **padrões de commit** (Conventional Commits e gitmoji) e **assinatura de commits com GPG e SSH**, com o passo a passo validado nas documentações do GitHub e do GitLab.
+
+A apostila também mede como o prompt de documentação evoluiu em **5 versões**, a partir de **717 prompts reais**, e mostra como cada falha observada virou uma regra.
 
 ### Os 60 minutos
 
